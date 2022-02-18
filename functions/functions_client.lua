@@ -45,7 +45,7 @@ function CreateBlip(coords)
 
 	SetBlipSprite(blip, 361)
 	SetBlipScale(blip, 0.6)
-	SetBlipColour(blip, 4)
+	SetBlipColour(blip, 47)
 	SetBlipDisplay(blip, 4)
 	SetBlipAsShortRange(blip, true)
 
